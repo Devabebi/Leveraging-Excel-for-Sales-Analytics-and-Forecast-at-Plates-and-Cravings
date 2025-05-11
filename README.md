@@ -1,8 +1,7 @@
 # Plates and Cravings_Sales_Analysis and Forecast
 # Leveraging Excel for Sales Analytics and Forecast at Plates and Cravings
 ![image](https://github.com/user-attachments/assets/517508f7-eaf7-466b-b26f-84cadefba3de)
-
-# Disclaimer 
+ 
 ![image](https://github.com/user-attachments/assets/cb134b9a-ffa0-4a3e-a9b9-2e626b96cc5f)
 All data and reports do not containconfidentiality or sensitive information from any company, individual, or organisation. They are created soley to demonstrate my skills in building advanced sales analytics and forecast using Excel.
 
@@ -12,6 +11,7 @@ This project analyses real-world food order data from Plates & Cravings, a vibra
 
 # PROBLEM STATEMENT
 As Plates & Cravings expands its diverse menu of Nigerian, African, and international cuisine, accurately forecasting customer orders becomes a growing challenge. Fluctuations in demand—driven by pricing, promotions, and seasonal trends—make it difficult to plan inventory, reduce food waste, and consistently meet customer expectations. Without a data-driven approach, inefficiencies in production and supply chain management can lead to missed opportunities and increased costs. This project seeks to address these challenges through Excel-based forecasting techniques, uncovering order patterns, evaluating promotional impacts, and predicting future demand. By leveraging statistical analysis and visual insights, Plates & Cravings can refine inventory strategies, optimize pricing decisions, and ensure sustainable business growth.
+![image](https://github.com/user-attachments/assets/0a1078dd-0db9-483e-81d5-b3a0394ec954)
 
 # OBJECTIVES OF THE PROJECT
 1. Descriptive Analysis – Identify order trends, meal popularity, and variability in demand using statistical techniques.
