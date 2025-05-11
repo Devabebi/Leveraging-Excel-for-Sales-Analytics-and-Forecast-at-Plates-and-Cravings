@@ -1,13 +1,14 @@
 # Plates and Cravings_Sales_Analysis and Forecast
 # Leveraging Excel for Sales Analytics and Forecast at Plates and Cravings
-https://thumbs.dreamstime.com/b/businessman-leveraging-predictive-analytics-ai-drive-driven-insights-laptop-invoice-icons-virtual-screen-to-forecast-327285318.jpg
+![image](https://github.com/user-attachments/assets/517508f7-eaf7-466b-b26f-84cadefba3de)
 
-# Disclaimer https://static.vecteezy.com/system/resources/previews/005/316/380/original/red-disclaimer-sign-illustration-vector.jpg
+# Disclaimer 
+![image](https://github.com/user-attachments/assets/cb134b9a-ffa0-4a3e-a9b9-2e626b96cc5f)
 All data and reports do not containconfidentiality or sensitive information from any company, individual, or organisation. They are created soley to demonstrate my skills in building advanced sales analytics and forecast using Excel.
 
 # INTRODUCTION
 This project analyses real-world food order data from Plates & Cravings, a vibrant food brand offering a mix of Nigerian, African, and international cuisine. As demand fluctuates due to pricing, promotions, and seasonal trends, understanding customer behavior is key to optimizing operations. Using Excel-based forecasting techniques, including Naïve, Moving Averages, and Exponential Smoothing, this study uncovers order patterns, assesses the impact of promotional efforts, and predicts future demand. With insights derived from descriptive statistics and data visualization, the goal is to enhance inventory management, reduce food waste, and refine strategic decision-making to improve business performance and customer satisfaction.
-https://kissit.co.nz/wp-content/uploads/2019/06/Kiss-IT-computer-workstations-800px.jpg
+![image](https://github.com/user-attachments/assets/9896741a-1296-41a3-85ab-d14afe1c915c)
 
 # PROBLEM STATEMENT
 As Plates & Cravings expands its diverse menu of Nigerian, African, and international cuisine, accurately forecasting customer orders becomes a growing challenge. Fluctuations in demand—driven by pricing, promotions, and seasonal trends—make it difficult to plan inventory, reduce food waste, and consistently meet customer expectations. Without a data-driven approach, inefficiencies in production and supply chain management can lead to missed opportunities and increased costs. This project seeks to address these challenges through Excel-based forecasting techniques, uncovering order patterns, evaluating promotional impacts, and predicting future demand. By leveraging statistical analysis and visual insights, Plates & Cravings can refine inventory strategies, optimize pricing decisions, and ensure sustainable business growth.
