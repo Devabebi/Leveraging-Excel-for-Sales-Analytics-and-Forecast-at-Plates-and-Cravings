@@ -1,7 +1,7 @@
 # Leveraging Excel for Sales Analytics and Forecast at Plates and Cravings
 
-![image](https://github.com/user-attachments/assets/517508f7-eaf7-466b-b26f-84cadefba3de)
- 
+<img width="1267" height="870" alt="image" src="https://github.com/user-attachments/assets/92e25622-70c8-436f-8f12-b619e14ed7c0" />
+
 🔒 Disclaimer
 All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
 
