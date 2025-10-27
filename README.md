@@ -1,12 +1,24 @@
-# Plates and Cravings_Sales_Analysis and Forecast
 # Leveraging Excel for Sales Analytics and Forecast at Plates and Cravings
+
 ![image](https://github.com/user-attachments/assets/517508f7-eaf7-466b-b26f-84cadefba3de)
  
-![image](https://github.com/user-attachments/assets/cb134b9a-ffa0-4a3e-a9b9-2e626b96cc5f)
-All data and reports do not containconfidentiality or sensitive information from any company, individual, or organisation. They are created soley to demonstrate my skills in building advanced sales analytics and forecast using Excel.
+🔒 Disclaimer
+All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
 
-# INTRODUCTION
+## Table of Content
+- [Business Overview](#business-overview)
+- [Problem Statement](#problem-statement)
+- [Objectives of the Project](#objectives-of-the-project)
+- [Project Workflow](#project-workflow)
+- [Tech Stack](#tech-stack)
+- [Statistics Visual](#statistics-visual)
+- [Correlation Visual](#correlation-visual)
+- [Forecasting Techniques](#forecasting-techniques)
+- [Recommendations](#recommendations)
+
+# Business Overview
 This project analyses real-world food order data from Plates & Cravings, a vibrant food brand offering a mix of Nigerian, African, and international cuisine. As demand fluctuates due to pricing, promotions, and seasonal trends, understanding customer behavior is key to optimizing operations. Using Excel-based forecasting techniques, including Naïve, Moving Averages, and Exponential Smoothing, this study uncovers order patterns, assesses the impact of promotional efforts, and predicts future demand. With insights derived from descriptive statistics and data visualization, the goal is to enhance inventory management, reduce food waste, and refine strategic decision-making to improve business performance and customer satisfaction.
+
 ![image](https://github.com/user-attachments/assets/9896741a-1296-41a3-85ab-d14afe1c915c)
 
 # PROBLEM STATEMENT
@@ -41,13 +53,14 @@ As Plates & Cravings expands its diverse menu of Nigerian, African, and internat
 ![Plate Craving Correlation](https://github.com/user-attachments/assets/ad0c5195-7d66-43c5-872e-019c9153c42f)
 
 # FORECASTING TECHNIQUES
-# NAIVE
+
+## NAIVE
 ![P C naive](https://github.com/user-attachments/assets/5bb9cb00-36ed-4b01-9d80-ebf3f135bc8f)
 
-# MONIVG AVERAGE
+## MONIVG AVERAGE
 ![P C moving average](https://github.com/user-attachments/assets/00a6fc62-3540-45e5-8fe8-f7384aadc7f3)
 
-# EXPONENTIAL SMOOTHING
+## EXPONENTIAL SMOOTHING
 ![P C exponential smoothing (2)](https://github.com/user-attachments/assets/c6b577df-e043-47bb-b9f7-83be84437f9f)
 
 # RECOMMENDATION
@@ -55,8 +68,3 @@ As Plates & Cravings expands its diverse menu of Nigerian, African, and internat
 # THANK YOU
 You can reach out to me for more information
 ![Python SQL R MachineLearning MySQL DataAnalysis DataVisualization Statistics BigDataAnalysis Pandas NumPy CloudComputing AWS Azure Tableau CommunicationSkills ProblemSolving BusinessIntelligence PostgreSQL](https://github.com/user-attachments/assets/f569d63a-86e3-4512-a3e7-dc1d31897b2b)
-
-
-
-
-
